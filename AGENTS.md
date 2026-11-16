@@ -5,3 +5,4 @@ This repo holds sched-prod's issue tracker as files, the collector that fills it
 - `doc/issues/` — the tracker: one Markdown file per issue (format in README.md)
 - `collectors/` — pulls the backlog and the request channels into `doc/issues/`
 - `specs/` — the product's rules
+- `.agents/skills/triage` - skill for marking  the issues properly
